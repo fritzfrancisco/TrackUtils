@@ -1,4 +1,4 @@
-# TrackUtils
+# TrackingUtilities
 A collection of usefull scripts for detecting and tracking things
 
 ## Keypoint Detection using [Detectron2](https://github.com/facebookresearch/detectron2):
