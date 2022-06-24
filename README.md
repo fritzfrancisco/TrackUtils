@@ -10,6 +10,6 @@ How to:
 
 Directory overview:
 
-- notebooks
---keypointCSV2COCO.ipynb 
---keypoint_detectron2.ipynb
+- notebooks  
+ --keypointCSV2COCO.ipynb   
+ --keypoint_detectron2.ipynb  
